@@ -12,7 +12,7 @@
 
 
 ## 3. Me
-
+![](https://github.com/mattiamazzoli/mattiamazzoli.github.io/blob/master/assets/ifisc.jpg)
 I was born in Urbino, Italy, in 1989. 
 In 2008 I moved to Torino to attend university and now I live in Palma de Mallorca, Spain.
 I'm interested on complex social systems, economics, game theory, transportation, online social networks and information diffusion.
