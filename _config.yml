@@ -24,10 +24,8 @@ description              : "My personal website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-
-excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
-header					 :
-  overlay_image: https://vignette.wikia.nocookie.net/austinally/images/1/14/Random_picture_of_shark.png/revision/latest?cb=20150911004230  #/assets/images/teaser.png
+header:
+  overlay_image: /assets/images/teaser.png
   overlay_filter: rgba(255, 0, 0, 0.5)
   caption: "zzoso"
 
