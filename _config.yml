@@ -19,9 +19,7 @@ repository               : "mattiamazzoli/mattiamazzoli.github.io"
 locale                   : "en-US"
 title                    : "Complexity is fun"
 excerpt: "This post should [...]"
-teaser:
-  overlay_image: /assets/images/teaser.jpg
-  caption: "metti sta cazzo di immagine"
+teaser					 : /assets/images/teaser.jpg
 
 
 title_separator          : "-"
