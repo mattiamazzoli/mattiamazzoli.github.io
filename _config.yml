@@ -24,7 +24,17 @@ description              : "My personal website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser					 : "teaser.png"
+
+excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
+header:
+  overlay_image: /assets/images/teaser.png
+  caption: "zzoso"
+  actions:
+    - label: "More Info"
+      url: "https://unsplash.com"
+
+header:
+  image					 : "teaser.png"
 # breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
