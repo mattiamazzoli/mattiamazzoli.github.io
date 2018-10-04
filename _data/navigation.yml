@@ -2,13 +2,12 @@
 main:
 
   - title: "Publications"
-    url: /year-archive/
-  - title: "Categories"
-    url: /categories/
+    url: /_posts/
+  - title: "Background"
+    url: /_posts/
   - title: "Codes"
-    url: /tags/
-  - title: "Pages"
-    url: /page-archive/
+    url: /_codes/
+
 
 
 docs:
