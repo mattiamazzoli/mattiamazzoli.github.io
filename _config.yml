@@ -24,10 +24,12 @@ description              : "My personal website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+layout: splash
+permalink: /
 header:
-  overlay_image: /assets/images/teaser.png
-  overlay_filter: rgba(255, 0, 0, 0.5)
-  caption: "zzoso"
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/mm-home-page-feature.jpg
+  caption: "zzo"
 
 
 # breadcrumbs            : true # true, false (default)
