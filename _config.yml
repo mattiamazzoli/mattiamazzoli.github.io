@@ -24,7 +24,8 @@ description              : "My personal website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-header					 :	/assets/images/teaser.jpg
+header:
+  teaser: /assets/images/teaser.jpg
 # breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
@@ -91,9 +92,7 @@ social                   :
   type					 :  # Person or Organization (defaults to Person)
   name					 :  # If the user or organization name differs from the site's name
   links					 :
-    - "https://twitter.com/TiaMazzoli"
-    - "https://www.linkedin.com/in/mattia-mazzoli-4751b0130/"
-	- "https://github.com/mattiamazzoli/"
+
 
 # Analytics
 analytics:
@@ -290,11 +289,3 @@ defaults:
       comments: # true
       share: true
       related: true
-
-sidebar:
-  - title: "Sidebar"
-    image: https://unpizzicodisalis.files.wordpress.com/2012/06/omino_bianco.jpg
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
