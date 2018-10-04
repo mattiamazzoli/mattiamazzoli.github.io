@@ -2,9 +2,9 @@
 main:
 
   - title: "Publications"
-    url: /_posts/
+    url: /_posts/2018-10-04-Publications.md
   - title: "Background"
-    url: /_posts/
+    url: /_posts/2018-10-04-Publications.md
   - title: "Codes"
     url: /_codes/
 
