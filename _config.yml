@@ -20,7 +20,7 @@ repository               : "mattiamazzoli/mattiamazzoli.github.io"
 locale                   : "en-US"
 title                    : "Complexity is fun"
 header:
-  image: "/assets/images/teaser.jpg"
+  teaser: "/assets/images/teaser.jpg"
 
 title_separator          : "-"
 name                     : "Mattia Mazzoli"
