@@ -26,12 +26,13 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 
 excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
-header:
-  overlay_image: "/assets/images/teaser.png"
+header					 :
+  overlay_image: https://vignette.wikia.nocookie.net/austinally/images/1/14/Random_picture_of_shark.png/revision/latest?cb=20150911004230  #/assets/images/teaser.png
+  overlay_filter: rgba(255, 0, 0, 0.5)
   caption: "zzoso"
   actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
+	- label: "More Info"
+	  url: "https://unsplash.com"
 
 # breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
