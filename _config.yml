@@ -21,6 +21,7 @@ title                    : "Complexity is fun"
 excerpt: "This post should [...]"
 header:
   overlay_image: /assets/images/teaser.jpg
+  caption: "metti sta cazzo di immagine"
 
 
 title_separator          : "-"
