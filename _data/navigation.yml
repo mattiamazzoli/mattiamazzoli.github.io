@@ -1,10 +1,10 @@
 # main links
 main:
 
-  - title: "Publications"
-    url: /_posts/Publications.md
-  - title: "Background"
-    url: /_posts/Background.md
+  #- title: "Publications"
+  #  url: /_posts/Publications.md
+  #- title: "Background"
+  #  url: /_posts/Background.md
   #- title: "Codes"
   #  url: /_codes/
 

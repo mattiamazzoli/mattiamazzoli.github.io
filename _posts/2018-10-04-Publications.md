@@ -1,3 +1,19 @@
+---
+layout: default
+---
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+</div>
+
+
 2017 - Equilibria, information and frustration in heterogeneous network games with conflicting preferences
 
 [paper](http://iopscience.iop.org/article/10.1088/1742-5468/aa9347/meta)
