@@ -19,8 +19,7 @@ layout: single
 repository               : "mattiamazzoli/mattiamazzoli.github.io"
 locale                   : "en-US"
 title                    : "No title"
-header:
-  teaser: "/assets/images/teaser.jpg"
+teaser					 : "/assets/images/teaser.jpg"
 
 title_separator          : "-"
 name                     : "Mattia Mazzoli"
