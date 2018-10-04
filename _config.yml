@@ -19,7 +19,12 @@ repository               : "mattiamazzoli/mattiamazzoli.github.io"
 locale                   : "en-US"
 title                    : "Complexity"
 header:
-  image: "/assets/images/teaser.png"
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/teaser.png
+  actions:
+    - label: "Hola"
+
 title_separator          : "-"
 name                     : "Mattia Mazzoli"
 description              : "My personal website."
