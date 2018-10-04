@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 
 header:
-  image: /assets/images/teaser.png
+  image: "/assets/images/teaser.png"
 
 # breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
