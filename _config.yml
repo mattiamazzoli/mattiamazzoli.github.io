@@ -17,9 +17,10 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 repository               : "mattiamazzoli/mattiamazzoli.github.io"
 locale                   : "en-US"
-title                    : "Complexity"
+title                    : "Complexity is fun"
+excerpt: "This post should [...]"
 header:
-  image: /assets/images/teaser.jpg
+  overlay_image: /assets/images/teaser.jpg
 
 
 title_separator          : "-"
