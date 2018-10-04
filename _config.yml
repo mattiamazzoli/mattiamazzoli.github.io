@@ -290,3 +290,11 @@ defaults:
       comments: # true
       share: true
       related: true
+
+sidebar:
+  - title: "Sidebar"
+    image: https://unpizzicodisalis.files.wordpress.com/2012/06/omino_bianco.jpg
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
