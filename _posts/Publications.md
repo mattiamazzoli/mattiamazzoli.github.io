@@ -1,3 +1,5 @@
+Here is a list of my scientific publications.
+
 **2017** - *Equilibria, information and frustration in heterogeneous network games with conflicting preferences*
 
 [paper](http://iopscience.iop.org/article/10.1088/1742-5468/aa9347/meta)
