@@ -1,12 +1,12 @@
 # main links
-#main:
+main:
 
-  #- title: "Publications"
-  #  url: /_posts/Publications.md
-  #- title: "Background"
-  #  url: /_posts/Background.md
-  #- title: "Codes"
-  #  url: /_codes/
+  - title: "Publications"
+    url: /2019/09/11/Publications.html
+  - title: "Background"
+    url: /2018/11/05/Background.html
+  - title: "Codes"
+    url: /2019/09/11/Publications.html
 
 docs:
   - title: Publications
