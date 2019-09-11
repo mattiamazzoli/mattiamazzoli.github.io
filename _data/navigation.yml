@@ -11,12 +11,8 @@
 docs:
   - title: Publications
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
-
+      - title: "Field theory"
+        url: /_posts/Publications.md
+      - title: "Migration"
+        url: /_posts/Publications.md
+      
