@@ -291,7 +291,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: archive
+      layout: archive-taxonomy
       author_profile: true
       read_time: true
       comments: # true
