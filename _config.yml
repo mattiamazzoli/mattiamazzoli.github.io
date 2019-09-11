@@ -278,6 +278,11 @@ compress_html:
   ignore:
     envs: development
 
+sidebar:
+  - title: "Bar"
+    image: http://placehold.it/350x250
+    image_alt: "image"
+    text: "Some text here."
 
 # Defaults
 defaults:
