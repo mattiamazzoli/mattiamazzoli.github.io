@@ -278,6 +278,10 @@ compress_html:
   ignore:
     envs: development
 
+sidebar:
+  - title: "Bar"
+    image: http://placehold.it/350x250
+    image_alt: "image"
 
 # Defaults
 defaults:
@@ -286,7 +290,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: archive-taxonomy
+      layout: single #archive-taxonomy
       author_profile: true
       read_time: true
       comments: # true
@@ -296,11 +300,4 @@ defaults:
         nav: "docs"
         
         
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+
