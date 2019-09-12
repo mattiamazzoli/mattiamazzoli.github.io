@@ -1,3 +1,7 @@
+---
+classes: wide
+---
+
 When I got into the PhD program at IFISC at the end of 2017 I was told I was going to work on Twitter data. 
 I was fresh of graduation with a Master thesis on opinion dynamics of political fake news in the US, however, the Twitter data stuff was slightly different.
 My initial financial support was a project on human mobility so we would need to do something on this topic.
