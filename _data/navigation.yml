@@ -17,10 +17,7 @@ docs:
         url: /2019/09/11/Publications.html
       - title: "Fake news"
         url: /2019/09/11/Publications.html
-  - title: Codes
-    children:
-      - title: "Codes"
-        url: /2021/05/15/Codes.html
+  
   - title: Home
     url: /
   
