@@ -9,14 +9,14 @@ main:
     url: /2021/05/15/Codes
 
 docs:
-  - title: Publications
-    children:
-      - title: "Field theory"
-        url: /2019/09/11/Field-theory.html
-      - title: "Migration"
-        url: /2019/09/11/Publications.html
-      - title: "Fake news"
-        url: /2019/09/11/Publications.html
+  #- title: Publications
+   # children:
+    #  - title: "Field theory"
+     #   url: /2019/09/11/Field-theory.html
+      #- title: "Migration"
+       # url: /2019/09/11/Publications.html
+      #- title: "Fake news"
+       # url: /2019/09/11/Publications.html
   
   - title: Home
     url: /
