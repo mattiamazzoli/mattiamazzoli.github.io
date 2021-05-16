@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 layout: single
 repository               : "mattiamazzoli/mattiamazzoli.github.io"
 locale                   : "en-US"
-title                    : #"Mattia Mazzoli's page"
+title                    : #""
 teaser					 : "/assets/images/teaser2.jpeg"
 
 title_separator          : "-"
