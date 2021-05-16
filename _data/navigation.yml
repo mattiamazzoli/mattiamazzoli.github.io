@@ -6,7 +6,7 @@ main:
   - title: "Background"
     url: /2018/10/05/Background.html
   - title: "Codes"
-    url: /2021/05/15/Available codes.html
+    url: /2021/05/15/Codes.html
 
 docs:
   - title: Publications
@@ -20,7 +20,7 @@ docs:
   - title: Codes
     children:
       - title: "Available codes"
-        url: /2021/05/15/Available codes.html
+        url: /2021/05/15/Codes.html
   - title: Home
     url: /
   
