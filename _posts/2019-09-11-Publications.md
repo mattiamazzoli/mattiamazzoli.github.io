@@ -8,6 +8,6 @@ Here is a list of my scientific publications.
 
 **2018** - [*Agent Based Rumor Spreading in a scale-free network*](https://arxiv.org/abs/1805.05999)
 
-**2019** - [*Migrant mobility flows characterized with digital data*](https://arxiv.org/abs/1908.02540)
-
 **2019** - [*Field theory for recurrent mobility*](https://www.nature.com/articles/s41467-019-11841-2)
+
+**2020** - [*Migrant mobility flows characterized with digital data*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230264)
