@@ -4,7 +4,7 @@ classes: wide
 
 Here is a list of my scientific publications.
 
-**2021** - [*Projecting the COVID-19 epidemic risk in France for the summer 2021 *](https://academic.oup.com/jtm/advance-article/doi/10.1093/jtm/taab129/6355057?login=true)
+**2021** - [*Projecting the COVID-19 epidemic risk in France for the summer 2021*](https://academic.oup.com/jtm/advance-article/doi/10.1093/jtm/taab129/6355057?login=true)
 
 **2021** - [*Unequal housing affordability across European cities. The ESPON Housing Database, Insights on Affordability in Selected Cities in Europe*](https://journals.openedition.org/cybergeo/36478)
 
