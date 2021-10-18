@@ -4,7 +4,7 @@ classes: wide
 
 Here is a list of my scientific publications.
 
-**2021** - *Interplay between mobility, multi-seeding and lockdowns shapes COVID-19 local impact* [Plos Computational Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009326)
+**2021** - *Interplay between mobility, multi-seeding and lockdowns shapes COVID-19 local impact* [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009326)
 
 **2021** - *Projecting the COVID-19 epidemic risk in France for the summer 2021* [Journal of Travel Medicine](https://academic.oup.com/jtm/advance-article/doi/10.1093/jtm/taab129/6355057?login=true)
 
@@ -16,6 +16,6 @@ Here is a list of my scientific publications.
 
 **2019** - *Field theory for recurrent mobility* [Nature Communications](https://www.nature.com/articles/s41467-019-11841-2)
 
-**2018** - *Agent Based Rumor Spreading in a scale-free network* [Arxiv] (https://arxiv.org/abs/1805.05999)
+**2018** - *Agent Based Rumor Spreading in a scale-free network* [Arxiv](https://arxiv.org/abs/1805.05999)
 
 **2017** - *Equilibria, information and frustration in heterogeneous network games with conflicting preferences* [Journal of Statistical Mechanics: Theory and Experiment](http://iopscience.iop.org/article/10.1088/1742-5468/aa9347/meta)
