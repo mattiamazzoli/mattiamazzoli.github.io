@@ -4,7 +4,7 @@ classes: wide
 
 Here is a list of my scientific publications.
 
-**2021** - [*Interplay between mobility, multi-seeding and lockdowns shapes COVID-19 local impact*] Plos Computational Biology (link:https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009326)
+**2021** - [*Interplay between mobility, multi-seeding and lockdowns shapes COVID-19 local impact*] [Plos Computational Biology](link:https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009326)
 
 **2021** - [*Projecting the COVID-19 epidemic risk in France for the summer 2021*] Journal of Travel Medicine (link: https://academic.oup.com/jtm/advance-article/doi/10.1093/jtm/taab129/6355057?login=true)
 
