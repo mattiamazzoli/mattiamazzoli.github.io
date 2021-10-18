@@ -20,7 +20,7 @@ Here is a list of my scientific publications.
 [PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230264)
 
 **2019** - *Field theory for recurrent mobility* 
-[Nature Communications](https://www.nature.com/articles/s41467-019-11841-2)
+[Nature Communications](https://www.nature.com/articles/s41467-019-11841-2) 
 
 **2018** - *Agent Based Rumor Spreading in a scale-free network* 
 [Arxiv](https://arxiv.org/abs/1805.05999)
