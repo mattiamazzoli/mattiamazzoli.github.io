@@ -280,7 +280,7 @@ compress_html:
 
 sidebar:
   - title: "Bar"
-    image: http://placehold.it/350x250
+    image: http://placehold.it/700x500 #350x250
     image_alt: "image"
 
 # Defaults
