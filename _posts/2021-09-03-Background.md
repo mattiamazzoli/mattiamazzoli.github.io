@@ -3,4 +3,4 @@ I got my Bachelor Degree in Physics (Laurea Triennale in Fisica) in 2014 and my 
 
 In July 2021 I obtained my PhD title in Human Mobility and Physics of Complex Systems at IFISC (Instituto de Física Interdisciplinar y Sistemas Complejos), UIB-CSIC, Palma de Mallorca, Spain.
 
-I’m interested in complex social systems, human mobility, urban systems, economics, game theory, online social networks and information diffusion.
+I’m interested in complex social systems, epidemiology, human mobility, urban systems, game theory, online social networks and information diffusion.
