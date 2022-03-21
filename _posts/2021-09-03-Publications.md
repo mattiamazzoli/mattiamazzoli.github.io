@@ -3,6 +3,7 @@ classes: wide
 ---
 
 Here is a list of my scientific publications.
+
 **2022** - *Impact of urban structure on infectious disease spreading*\
 [Scientific Reports](https://www.nature.com/articles/s41598-022-06720-8)
 
