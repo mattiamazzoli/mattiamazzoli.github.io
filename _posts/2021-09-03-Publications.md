@@ -3,6 +3,8 @@ classes: wide
 ---
 
 Here is a list of my scientific publications.
+**2022** - *Impact of urban structure on infectious disease spreading*\
+[Scientific Reports](https://www.nature.com/articles/s41598-022-06720-8)
 
 **2021** - *Interplay between mobility, multi-seeding and lockdowns shapes COVID-19 local impact*\
 [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009326)
