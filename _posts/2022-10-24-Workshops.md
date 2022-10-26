@@ -16,6 +16,6 @@ Here is a list of organized workshops
 *EpiMob at NetSci2021* (Beijing - Online)
 [website](https://epimob.weebly.com)
 
-<img width="400" alt="Screenshot 2022-10-26 at 16 38 44" src="https://user-images.githubusercontent.com/26024985/198056549-ce265466-0a21-48b2-b69a-bfd08d1c9aac.png">
-*UrbanSys2022 at CCS2022* (Palma)
+<img width="400" alt="Screenshot 2022-10-26 at 16 39 45" src="https://user-images.githubusercontent.com/26024985/198056846-9b590986-7575-4b95-9dbe-33a9c2edfac3.png">
+*UrbanSys2022 at CCS2022* (Palma) 
 [website](https://urbansys2022.weebly.com)
