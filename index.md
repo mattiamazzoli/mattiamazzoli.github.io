@@ -1,10 +1,10 @@
 ---
 layout: single
 author_profile: true
+title: About me
 ---
 
 
-## About me
 
 I am Mattia Mazzoli, currently I am a PostDoctoral Researcher at the Pierre Louis Institute of Epidemiology and Public Health (IPLESP) of the French National Institute of Health and Medical Research (INSERM), and Sorbonne Université, in Paris, France.
 
