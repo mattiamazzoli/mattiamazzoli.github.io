@@ -4,6 +4,10 @@ classes: wide
 
 Here is a list of my scientific publications.
 
+**2023** 
+- *<ins>Spatial immunization to abate disease spreading in transportation hubs</ins>*\
+[Nature Communications](https://www.nature.com/articles/s41467-023-36985-0)
+
 **2022** 
 - *<ins>Impact of urban structure on infectious disease spreading</ins>*\
 [Scientific Reports](https://www.nature.com/articles/s41598-022-06720-8)
