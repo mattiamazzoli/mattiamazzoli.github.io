@@ -12,5 +12,5 @@ My work involves the use of digital surveillance systems for Influenza&Covid-lik
 
 Relying on my expertise on human mobility, I mainly worked with spatial transmission models to describe the spatio-temporal invasion of infectious diseases on the territory at different spatial scales.
 
-My main areas of interests are post-pandemic cities, spatial transmission models, migration studies, health care accessibility and socio-economic segregation analyses.
+My main areas of interests are post-pandemic cities, pandemic preparedness, computational epidemiology, migration studies, health care accessibility and socio-economic segregation.
 
