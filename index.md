@@ -8,7 +8,7 @@ title: About me
 
 I am Mattia Mazzoli, currently I am a PostDoctoral Researcher at ISI Foundation in Turin, Italy.
 
-I work with digital surveillance systems for Influenza and Covid-19 and human mobility data driven epidemic models.
+I work with digital surveillance systems for Influenza and Covid-19 and human mobility data informed epidemic models.
 
 Relying on my expertise on human mobility, I mainly worked with spatial transmission models to describe the spatio-temporal invasion of infectious diseases on the territory at different spatial scales.
 
