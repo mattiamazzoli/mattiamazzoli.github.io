@@ -19,7 +19,7 @@ layout: single
 repository               : "mattiamazzoli/mattiamazzoli.github.io"
 locale                   : "en-US"
 title                    : #""
-teaser					 : "/assets/images/image17.png"
+teaser					         : "/assets/images/image17.png"
 
 title_separator          : "-"
 name                     : "Mattia Mazzoli"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Mattia Mazzoli"
   avatar           : "/assets/images/mazzoli_dni.jpg"
-  bio              : "PhD in complex systems and human mobility. Postdoctoral Associate @ISI-Foundation"
+  bio              : "PhD in complex systems and human mobility. Postdoctoral Researcher @ISI-Foundation"
   location         : "ISI, Turin, Italy"
   email            :
   links:
