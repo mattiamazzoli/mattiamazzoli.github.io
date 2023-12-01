@@ -25,7 +25,8 @@ UrbanSys2022 at *CCS2022* (Palma)
 <img width="400" alt="Screenshot 2022-10-26 at 16 39 45" src="https://user-images.githubusercontent.com/26024985/198056846-9b590986-7575-4b95-9dbe-33a9c2edfac3.png">
 
 EpiMob at *NetSci2023* (Vienna - Austria)
-[website](https://epimob2023.weebly.com)![Screenshot 2023-12-01 at 13 56 55](https://github.com/mattiamazzoli/mattiamazzoli.github.io/assets/26024985/ac7a676c-1454-44d2-ad18-f0ad1a3ab240)
+<img width="400" alt="Screenshot 2022-10-26 at 16 39 45" src="[https://user-images.githubusercontent.com/26024985/198056846-9b590986-7575-4b95-9dbe-33a9c2edfac3.png](https://github.com/mattiamazzoli/mattiamazzoli.github.io/assets/26024985/ac7a676c-1454-44d2-ad18-f0ad1a3ab240)">
+
 
 
 <img width="400" alt="">
