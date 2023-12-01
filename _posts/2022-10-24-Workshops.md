@@ -14,7 +14,7 @@ UrbanSys2021 at *CCS2021* (Lyon)
 
 <img width="400" alt="Screenshot 2022-10-26 at 16 38 15" src="https://user-images.githubusercontent.com/26024985/198056182-1b4482e8-91f9-4e2c-af62-2d953961c756.png">
 
-EpiMob at *NetSci2021* (Beijing - Online)
+EpiMob at *NetSci2022* (Beijing - Online)
 [website](https://epimob.weebly.com)
 
 <img width="400" alt="Screenshot 2022-10-26 at 16 42 11" src="https://user-images.githubusercontent.com/26024985/198057208-9a933d97-5494-42f1-8429-82f6c1b96fec.png">
