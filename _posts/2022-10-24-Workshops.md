@@ -27,7 +27,7 @@ UrbanSys2022 at *CCS2022* (Palma)
 EpiMob at *NetSci2023* (Vienna - Austria)
 [website](https://epimob2023.weebly.com)
 
-<img width="400" alt="Screenshot 2023-12-01 at 14 04 45" img src="assets/images/287271105-ac7a676c-1454-44d2-ad18-f0ad1a3ab240.png">
+<img width="400" alt="Screenshot 2023-12-01 at 14 04 45" img src="/assets/images/287271105-ac7a676c-1454-44d2-ad18-f0ad1a3ab240.png">
 
 
 <img width="400" alt="">
