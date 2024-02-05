@@ -30,6 +30,5 @@ EpiMob at *NetSci2023* (Vienna - Austria)
 <img width="400" alt="Screenshot 2023-12-01 at 14 04 45" src="https://github.com/mattiamazzoli/mattiamazzoli.github.io/assets/26024985/ac7a676c-1454-44d2-ad18-f0ad1a3ab240.png">
 
 
-
 <img width="400" alt="">
 
