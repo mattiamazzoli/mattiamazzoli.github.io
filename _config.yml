@@ -119,7 +119,7 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-     - label: "BlueSky"
+    - label: "BlueSky"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://bsky.app/profile/mattiamazzoli.bsky.social"
     - label: "Twitter"
