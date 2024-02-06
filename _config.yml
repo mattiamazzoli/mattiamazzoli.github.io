@@ -141,6 +141,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "BlueSky"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://bsky.app/profile/mattiamazzoli.bsky.social"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/TiaMazzoli"
