@@ -4,6 +4,10 @@ classes: wide
 
 Here is a list of my scientific publications.
 
+**2024** 
+- *<ins>Dispersion patterns of SARS-CoV-2 variants Gamma, Lambda and Mu in Latin America and the Caribbean</ins>*\
+[Nature Communications](https://www.nature.com/articles/s41467-024-46143-9)
+
 **2023** 
 - *<ins>Spatial immunization to abate disease spreading in transportation hubs</ins>*\
 [Nature Communications](https://www.nature.com/articles/s41467-023-36985-0)
