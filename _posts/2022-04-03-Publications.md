@@ -5,6 +5,9 @@ classes: wide
 Here is a list of my scientific publications.
 
 **2024** 
+- *<ins>A generalized vector-field framework for mobility</ins>*\
+[Communications Physics](https://www.nature.com/articles/s42005-024-01672-z)
+
 - *<ins>Dispersion patterns of SARS-CoV-2 variants Gamma, Lambda and Mu in Latin America and the Caribbean</ins>*\
 [Nature Communications](https://www.nature.com/articles/s41467-024-46143-9)
 
