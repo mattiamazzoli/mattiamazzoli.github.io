@@ -5,6 +5,9 @@ classes: wide
 Here is a list of my scientific publications.
 
 **2024** 
+- *<ins>Routes of importation and spatial dynamics of SARS-CoV-2 variants during localised interventions in Chile</ins>*\
+[PNAS Nexus](https://academic.oup.com/pnasnexus/advance-article/doi/10.1093/pnasnexus/pgae483/7846532)
+
 - *<ins>A generalized vector-field framework for mobility</ins>*\
 [Communications Physics](https://www.nature.com/articles/s42005-024-01672-z)
 
