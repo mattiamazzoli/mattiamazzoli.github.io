@@ -4,6 +4,12 @@ classes: wide
 
 Here is a list of my scientific publications.
 
+**2025** 
+- *<ins>Resilience of mobility network to dynamic population response across COVID-19 interventions: Evidences from Chile</ins>*\
+[PLOS Computational Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012802)
+
+
+
 **2024** 
 - *<ins>Routes of importation and spatial dynamics of SARS-CoV-2 variants during localised interventions in Chile</ins>*\
 [PNAS Nexus](https://academic.oup.com/pnasnexus/advance-article/doi/10.1093/pnasnexus/pgae483/7846532)
