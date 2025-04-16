@@ -5,6 +5,11 @@ classes: wide
 Here is a list of my scientific publications.
 
 **2025** 
+
+- *<ins>Exploring influenza vaccination determinants through digital participatory surveillance</ins>*\
+[BMC Pubic Health](https://link.springer.com/article/10.1186/s12889-025-22496-8)
+
+
 - *<ins>Resilience of mobility network to dynamic population response across COVID-19 interventions: Evidences from Chile</ins>*\
 [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012802)
 
