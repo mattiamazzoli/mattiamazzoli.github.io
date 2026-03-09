@@ -4,6 +4,12 @@ classes: wide
 
 Here is a list of my scientific publications.
 
+**2026**
+
+- *<ins>Role of behaviour change in controlling the 2022 Paris mpox outbreak</ins>*\
+[Nature Health](https://www.nature.com/articles/s44360-025-00022-9)
+
+
 **2025** 
 
 - *<ins>Exploring influenza vaccination determinants through digital participatory surveillance</ins>*\
