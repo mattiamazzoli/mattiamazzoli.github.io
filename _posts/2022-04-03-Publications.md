@@ -6,6 +6,9 @@ Here is a list of my scientific publications.
 
 **2026**
 
+- *<ins>Nontraditional Data in Pandemic Preparedness and Response: Identifying and Addressing First-and Last-Mile Challenges</ins>*\
+[JMIR](https://www.jmir.org/2026/1/e85540/)
+
 - *<ins>Role of behaviour change in controlling the 2022 Paris mpox outbreak</ins>*\
 [Nature Health](https://www.nature.com/articles/s44360-025-00022-9)
 
