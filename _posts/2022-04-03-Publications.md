@@ -6,6 +6,9 @@ Here is a list of my scientific publications.
 
 **2026**
 
+- *<ins>Assessing dengue knowledge, attitudes and preventive practices in France and Italy: A cross-sectional study using participatory surveillance cohorts</ins>*\
+[PLOS Global Public Health](https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0007162)
+
 - *<ins>Nontraditional Data in Pandemic Preparedness and Response: Identifying and Addressing First-and Last-Mile Challenges</ins>*\
 [JMIR](https://www.jmir.org/2026/1/e85540/)
 
