@@ -9,7 +9,8 @@ Here is a list of organized workshops
 [UrbanSys2022](https://urbansys2022.weebly.com) at *CCS2022* (Palma - Spain)   
 [UrbanSys2023](https://urbansys2023.weebly.com) at *CCS2023* (Rio de Janeiro - Brazil)   
 [UrbanSys2024](https://urban-sys-net.weebly.com/past-editions.html) at *CCS2024* (Exeter - UK)   
-[UrbanSys2025](https://urban-sys-net.weebly.com) at *CCS2025* (Siena - Italy) 
+[UrbanSys2025](https://urban-sys-net.weebly.com/past-editions.html) at *CCS2025* (Siena - Italy)   
+[UrbanNet2026](https://urban-sys-net.weebly.com) at *CCS2026* (Boston - USA) 
 
 
 [EpiMob2022](https://epimob.weebly.com) at *NetSci2022* (Beijing - Online)   
