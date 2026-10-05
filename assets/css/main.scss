@@ -1,5 +1,4 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
 ---
 
 @charset "utf-8";
@@ -7,3 +6,25 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+/* --- custom styles --- */
+.event-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.event-box {
+  border: 1px solid #e1e4e8;
+  border-radius: 8px;
+  padding: 1.25rem;
+  background: #fafbfc;
+}
+
+.event-box h3 { margin-top: 0; font-size: 1.1rem; }
+.event-box p { font-size: 0.9rem; }
+.event-box img { width: 100%; height: auto; border-radius: 6px; }
+
+@media (max-width: 700px) {
+  .event-grid { grid-template-columns: 1fr; }
+}
